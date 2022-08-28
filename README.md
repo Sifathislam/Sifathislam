@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sifathislam" alt="sifathislam" /></a> </p>
 
-- 🔭 I’m currently working on my personal **Personal**
+- 🔭 I’m currently working on my **Personal Project**
 
 - 🌱 I’m currently learning **Javascript, Bootstrap 5 ,Github**
 
 - 👯 I’m looking to collaborate on Github **Github**
 
-- 💬 Ask me about **HTML, JAVASCRIPT, CSS, NODEJS, MONGODB, PUGJS, EXPRESSPUGJS,**
+- 💬 Ask me about **HTML, JAVASCRIPT, CSS, NODEJS, MONGODB, PUGJS, EXPRESS,**
 
 - 📫 How to reach me **sifathislam790@gmail.com**
 
