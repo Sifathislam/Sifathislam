@@ -1,4 +1,4 @@
-![Cover Image](https://drive.google.com/file/d/1-TNw7DN7L3etNpnn6BWjtAZ0gWxHs_kJ/view?usp=drive_link)
+![Cover Image](https://drive.google.com/file/d/1-TNw7DN7L3etNpnn6BWjtAZ0gWxHs_kJ/view?usp=sharing)
 <h1 style="font-family: 'Arial', sans-serif; ,color: #FF4081;"align="center";>👋 Sifat Islam</h1>
  <br>
 🌟 Assalamu Alaikum! I'm <b>Sifat Islam</b>, a dedicated Muslim and passionate programmer from Bangladesh. 🇧🇩 with expertise in C, C++, Python, and more. Pursuing a Ph.D. in Computer Science, seeking tech opportunities. Connect with me on GitHub!<br> <br>
