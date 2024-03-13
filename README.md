@@ -1,6 +1,4 @@
 ![Black Minimal Business Personal Profile Linkedin Banner](https://github.com/Sifathislam/Sifathislam/assets/105329974/b5b1b731-3e5a-4387-8964-b7533cf08420)
-
-<h1 style="font-family: 'Arial', sans-serif; ,color: #FF4081;"align="center";>👋 Sifat Islam</h1>
  <br>
 🌟 Assalamu Alaikum! I'm <b>Sifat Islam</b>, a dedicated Muslim and passionate programmer from Bangladesh. 🇧🇩 with expertise in C, C++, Python, and more. Pursuing a Ph.D. in Computer Science, seeking tech opportunities. Connect with me on GitHub!<br> <br>
 
